@@ -13,9 +13,9 @@ I thrive on tackling challenges and collaborating on exciting projects that push
 I enjoy exploring animations and crafting engaging web designs that captivate users. When I'm not coding, you’ll find me diving into tech blogs or experimenting with new design trends.
 
 📬 **Let's Connect!**  
-- Email: [florent@example.com](mailto:florent@example.com)  
+- Email: [florentkayidedji@proton.me](mailto:florentkayidedji@proton.me)  
 - GitHub: [Florentak21](https://github.com/Florentak21)  
-- LinkedIn: [Your LinkedIn Profile Link Here]  
+- LinkedIn: [https://www.linkedin.com/in/florentak21]  
 
 💡 **Current Focus**  
 I'm currently diving deeper into **Angular**, **TypeScript**, and **Flutter** to elevate my development skills and explore cross-platform opportunities.  

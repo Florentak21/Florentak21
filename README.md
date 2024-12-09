@@ -14,7 +14,7 @@ I enjoy exploring animations and crafting engaging web designs that captivate us
 
 📬 Let's Connect!
 
-    Email: florentkayidedji@proton.me
+    - Email: [florentkayidedji@proton.me](mailto:florentkayidedji@proton.me)
 
 💡 Current Focus
 I'm currently diving deeper into Angular, TypeScript, and Flutter to elevate my development skills and explore cross-platform opportunities.

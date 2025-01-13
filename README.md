@@ -4,7 +4,7 @@
 Passionate about creating intuitive and user-friendly web experiences. My journey in technology is fueled by a strong interest in **web development**, **systems**, and **IT security**.
 
 🚀 **My Tools and Languages**  
-I work primarily with **JavaScript**, **PHP**, and **Java**, and I enjoy learning new tools and technologies to expand my skill set.
+I work primarily with **PHP**, **Javascript**, and **Java**, and I enjoy learning new tools and technologies to expand my skill set.
 
 🌱 **What Drives Me**  
 I thrive on tackling challenges and collaborating on exciting projects that push the boundaries of creativity and innovation. Learning and building alongside others is what motivates me most.
@@ -16,7 +16,7 @@ I enjoy exploring animations and crafting engaging web designs that captivate us
 - Email: [florentkayidedji@proton.me](mailto:florentkayidedji@proton.me)
 
 💡 **Current Focus**  
-I'm currently diving deeper into **Angular**, **TypeScript**, and **Flutter** to elevate my development skills and explore cross-platform opportunities.
+I'm currently diving deeper into **Javascript**, **Vue JS**, and **Laravel** to elevate my development skills and explore cross-platform opportunities.
 
 ---
 

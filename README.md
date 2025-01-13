@@ -1,7 +1,7 @@
 # Hi there, I'm Florent AYIDEDJI! 👋
 
 💻 **Fullstack Developer | Mobile Developer**  
-Passionate about creating intuitive and user-friendly web experiences. My journey in technology is fueled by a strong interest in **web development**, **systems**, and **IT security**.
+Passionate about creating intuitive and user-friendly web experiences. My journey in technology is fueled by a strong interest in **web and mobile development**, **systems**, and **IT security**.
 
 🚀 **My Tools and Languages**  
 I work primarily with **PHP**, **Javascript**, and **Java**, and I enjoy learning new tools and technologies to expand my skill set.
